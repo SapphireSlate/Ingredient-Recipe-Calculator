@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ingredient-recipe-calculator/static/css/main.328993e5.css",
-    "main.js": "/ingredient-recipe-calculator/static/js/main.e2be633f.js",
+    "main.css": "/ingredient-recipe-calculator/static/css/main.b427f87b.css",
+    "main.js": "/ingredient-recipe-calculator/static/js/main.d07ebef7.js",
     "static/js/453.ca9859e8.chunk.js": "/ingredient-recipe-calculator/static/js/453.ca9859e8.chunk.js",
     "index.html": "/ingredient-recipe-calculator/index.html",
-    "main.328993e5.css.map": "/ingredient-recipe-calculator/static/css/main.328993e5.css.map",
-    "main.e2be633f.js.map": "/ingredient-recipe-calculator/static/js/main.e2be633f.js.map",
+    "main.b427f87b.css.map": "/ingredient-recipe-calculator/static/css/main.b427f87b.css.map",
+    "main.d07ebef7.js.map": "/ingredient-recipe-calculator/static/js/main.d07ebef7.js.map",
     "453.ca9859e8.chunk.js.map": "/ingredient-recipe-calculator/static/js/453.ca9859e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.328993e5.css",
-    "static/js/main.e2be633f.js"
+    "static/css/main.b427f87b.css",
+    "static/js/main.d07ebef7.js"
   ]
 }
